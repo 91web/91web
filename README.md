@@ -1,3 +1,5 @@
+<div align="center">  
+
 # 👋 Hi, I'm Yusuf Babatunde
 
 ### **Software Developer (Web & Mobile) | Next.js & React Specialist**  
@@ -5,10 +7,14 @@
 
 ---
 
+</div>
+
 ## 🚀 **Professional Bio**  
 I’m a **First-Class Computer Science graduate** and an experienced software developer with expertise in **Next.js, React, Node.js, and Flutter**. I build scalable, performant web and mobile applications with a focus on **responsive design, SEO optimization, and seamless user experiences**. Passionate about agile collaboration, clean code, and cutting-edge tech, I thrive in dynamic teams to deliver innovative solutions.  
 
 I have completed the **software engineering program** at ALX and have since graduated, thereby making me a former student of the institution, which qualifies me as both a software engineer graduate from ALX and an alumnus of ALX.
+
+
 ![image](https://github.com/user-attachments/assets/15d612c4-b862-46ec-9f7a-3c47d648241e)
 
 
@@ -52,9 +58,19 @@ I have completed the **software engineering program** at ALX and have since grad
 | **Smart Sentiment Analysis** | This app sentiment analyzes languages in African dialects, such as Yoruba, Hausa, Igbo, and Pidgin. | JavaScript, Google Gemini API, CSS, TyScript| [View Project](https://smart-secured-insurance-gcd1.vercel.app/) |  
 | **Number Conversion App** | Automated Number base App that converts Numbers from one base to another |JavaScript, TypeScript, MUI, Next.js | [View Project](https://ml-number-base.vercel.app/) |  
 
+
+
+ 
+
+  
 ---
 
+
+<div align="center"> 
+
 ## 📈 **GitHub Stats**  
+
+
 
 <!-- Example: Embed GitHub stats using https://github.com/anuraghazra/github-readme-stats -->  
 ![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=91web&show_icons=true&theme=radical)  
@@ -62,6 +78,8 @@ I have completed the **software engineering program** at ALX and have since grad
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=91web&layout=compact&theme=nightowl)  
 
 ---
+</div>
+
 
 ## 🏆 **Achievements**  
 
