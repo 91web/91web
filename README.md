@@ -8,6 +8,10 @@
 ## 🚀 **Professional Bio**  
 I’m a **First-Class Computer Science graduate** and an experienced software developer with expertise in **Next.js, React, Node.js, and Flutter**. I build scalable, performant web and mobile applications with a focus on **responsive design, SEO optimization, and seamless user experiences**. Passionate about agile collaboration, clean code, and cutting-edge tech, I thrive in dynamic teams to deliver innovative solutions.  
 
+I have completed the **software engineering program** at ALX and have since graduated, thereby making me a former student of the institution, which qualifies me as both a software engineer graduate from ALX and an alumnus of ALX.
+![image](https://github.com/user-attachments/assets/15d612c4-b862-46ec-9f7a-3c47d648241e)
+
+
 🔹 **Award-winning** UI/UX transformer & bug resolution expert  
 🔹 **Top 5,000** Portfolio Design Hackathon Runner-Up  
 🔹 **Open-source contributor** & lifelong learner  
