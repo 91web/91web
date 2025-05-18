@@ -47,11 +47,10 @@ I have completed the **software engineering program** at ALX and have since grad
 
 | Project | Description | Tech Stack | Live Demo |  
 |---------|-------------|------------|-----------|  
-| **[Crypto Wallet App](link)** | Secure crypto transactions with real-time tracking | Next.js, Node.js, Tailwind | [View Demo](https://crypto-app-pi-drab.vercel.app/) |  
-| **Fake News Detection** | AI-powered real-time news verifier | Python, NLP, Next.js | [View Project](https://real-time-fake-news-detection2.vercel.app/) |  
-| **Smart Insurance App** | Automated claims processing | Flutter, Firebase | [View Project](https://smart-secured-insurance-gcd1.vercel.app/) |  
-
-
+| **[Crypto Wallet App](https://github.com/91web/crypto-app.git)** | Secure crypto transactions with real-time tracking | Next.js, Node.js, Tailwind | [Demo Link](https://crypto-app-pi-drab.vercel.app/) |  
+| **[Fake News Detection](https://github.com/91web/Real-time-Fake-News-Detection.git)** | AI-powered real-time news verifier | TypeScript,MUI, Next.js | [link](https://real-time-fake-news-detection2.vercel.app/) |  
+| **Smart Sentiment Analysis** | This app sentiment analyzes languages in African dialects, such as Yoruba, Hausa, Igbo, and Pidgin. | JavaScript, Google Gemini API, CSS, TyScript| [View Project](https://smart-secured-insurance-gcd1.vercel.app/) |  
+| **Number Conversion App** | Automated Number base App that converts Numbers from one base to another |JavaScript, TypeScript, MUI, Next.js | [View Project](https://ml-number-base.vercel.app/) |  
 
 ---
 
